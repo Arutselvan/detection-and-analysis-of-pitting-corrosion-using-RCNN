@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>6_01_03.png</filename>
+	<path>C:\Users\Aruts\Documents\Tensorflow\workspace\training_demo\images\train\6_01_03.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corrosion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>25</ymin>
+			<xmax>49</xmax>
+			<ymax>30</ymax>
+		</bndbox>
+	</object>
+</annotation>
