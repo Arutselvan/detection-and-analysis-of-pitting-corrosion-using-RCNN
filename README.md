@@ -1,7 +1,7 @@
 # Detection and Analysis of Pitting Corrosion using RCNN
 A research on Detection and analysis of pitting corrosion in metals exposed to alkaline medium of varying concentration using a Fast RCNN model in collaboration with CSIR - Central Electro Chemical Research Institute.
 
-Initial Rough draft: https://docs.google.com/document/d/11m9aXyODJGByFllWjnORtXzH4FL-G5jRVTpIgFrY4Bw/edit
+Initial Rough draft: https://docs.google.com/document/d/11m9aXyODJGByFllWjnORtXzH4FL-G5jRVTpIgFrY4Bw/edit?usp=sharing
 
 <p align="middle">
     <img src="https://user-images.githubusercontent.com/18646185/87218756-4553da00-c373-11ea-827f-ed6c835a5fa9.png" width="300" />
